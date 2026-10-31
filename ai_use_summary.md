@@ -3,7 +3,7 @@
 **Project:** Comparison of Three NLP Models  
 **AI Tool Used:** ChatGPT
 
-I used ChatGPT to obtain Python code examples and guidance for implementing the Bigram, LSTM, and Transformer models.
+I used ChatGPT to obtain Python code for implementing the Bigram, LSTM, and Transformer models.
 
 I personally executed the code in Google Colab, reviewed the outputs, and analyzed the training and validation results of all three models.
 
