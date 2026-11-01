@@ -1,0 +1,4 @@
+Model,Generated Characters,Word Structure,Dialogue Formatting,Sentence Coherence,Overall Text Quality
+Bigram,500,Poor,Poor,Very low,Low
+LSTM,500,Mostly recognizable,Recognizable,Limited,Medium
+Transformer,500,Mostly recognizable,Recognizable,Limited,Medium
